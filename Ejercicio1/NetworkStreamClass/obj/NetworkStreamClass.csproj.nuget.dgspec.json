@@ -1,92 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/pablobd/Documents/Formacion/M09/2_UF3/Practica/codigo/NetworkStreamClass/NetworkStreamClass.csproj": {}
+    "C:\\Users\\lbatl\\Desktop\\ICB0009-UF3-PR01\\ICB0009-UF3-PR01\\Ejercicio1\\NetworkStreamClass\\NetworkStreamClass.csproj": {}
   },
   "projects": {
-    "/Users/pablobd/Documents/Formacion/M09/2_UF3/Practica/codigo/Carretera/Carretera.csproj": {
+    "C:\\Users\\lbatl\\Desktop\\ICB0009-UF3-PR01\\ICB0009-UF3-PR01\\Ejercicio1\\Carretera\\Carretera.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/pablobd/Documents/Formacion/M09/2_UF3/Practica/codigo/Carretera/Carretera.csproj",
+        "projectUniqueName": "C:\\Users\\lbatl\\Desktop\\ICB0009-UF3-PR01\\ICB0009-UF3-PR01\\Ejercicio1\\Carretera\\Carretera.csproj",
         "projectName": "Carretera",
-        "projectPath": "/Users/pablobd/Documents/Formacion/M09/2_UF3/Practica/codigo/Carretera/Carretera.csproj",
-        "packagesPath": "/Users/pablobd/.nuget/packages/",
-        "outputPath": "/Users/pablobd/Documents/Formacion/M09/2_UF3/Practica/codigo/Carretera/obj/",
+        "projectPath": "C:\\Users\\lbatl\\Desktop\\ICB0009-UF3-PR01\\ICB0009-UF3-PR01\\Ejercicio1\\Carretera\\Carretera.csproj",
+        "packagesPath": "C:\\Users\\lbatl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lbatl\\Desktop\\ICB0009-UF3-PR01\\ICB0009-UF3-PR01\\Ejercicio1\\Carretera\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/pablobd/.nuget/NuGet/NuGet.Config"
-        ],
-        "originalTargetFrameworks": [
-          "net6.0"
-        ],
-        "sources": {
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
-            "projectReferences": {
-              "/Users/pablobd/Documents/Formacion/M09/2_UF3/Practica/codigo/Vehiculo/Vehiculo.csproj": {
-                "projectPath": "/Users/pablobd/Documents/Formacion/M09/2_UF3/Practica/codigo/Vehiculo/Vehiculo.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        }
-      },
-      "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.36, 6.0.36]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.36, 6.0.36]"
-            }
-          ],
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.405/RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "/Users/pablobd/Documents/Formacion/M09/2_UF3/Practica/codigo/NetworkStreamClass/NetworkStreamClass.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "/Users/pablobd/Documents/Formacion/M09/2_UF3/Practica/codigo/NetworkStreamClass/NetworkStreamClass.csproj",
-        "projectName": "NetworkStreamClass",
-        "projectPath": "/Users/pablobd/Documents/Formacion/M09/2_UF3/Practica/codigo/NetworkStreamClass/NetworkStreamClass.csproj",
-        "packagesPath": "/Users/pablobd/.nuget/packages/",
-        "outputPath": "/Users/pablobd/Documents/Formacion/M09/2_UF3/Practica/codigo/NetworkStreamClass/obj/",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "/Users/pablobd/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\lbatl\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -98,11 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/pablobd/Documents/Formacion/M09/2_UF3/Practica/codigo/Carretera/Carretera.csproj": {
-                "projectPath": "/Users/pablobd/Documents/Formacion/M09/2_UF3/Practica/codigo/Carretera/Carretera.csproj"
-              },
-              "/Users/pablobd/Documents/Formacion/M09/2_UF3/Practica/codigo/Vehiculo/Vehiculo.csproj": {
-                "projectPath": "/Users/pablobd/Documents/Formacion/M09/2_UF3/Practica/codigo/Vehiculo/Vehiculo.csproj"
+              "C:\\Users\\lbatl\\Desktop\\ICB0009-UF3-PR01\\ICB0009-UF3-PR01\\Ejercicio1\\Vehiculo\\Vehiculo.csproj": {
+                "projectPath": "C:\\Users\\lbatl\\Desktop\\ICB0009-UF3-PR01\\ICB0009-UF3-PR01\\Ejercicio1\\Vehiculo\\Vehiculo.csproj"
               }
             }
           }
@@ -137,21 +62,86 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.405/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.408/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/pablobd/Documents/Formacion/M09/2_UF3/Practica/codigo/Vehiculo/Vehiculo.csproj": {
+    "C:\\Users\\lbatl\\Desktop\\ICB0009-UF3-PR01\\ICB0009-UF3-PR01\\Ejercicio1\\NetworkStreamClass\\NetworkStreamClass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/pablobd/Documents/Formacion/M09/2_UF3/Practica/codigo/Vehiculo/Vehiculo.csproj",
-        "projectName": "Vehiculo",
-        "projectPath": "/Users/pablobd/Documents/Formacion/M09/2_UF3/Practica/codigo/Vehiculo/Vehiculo.csproj",
-        "packagesPath": "/Users/pablobd/.nuget/packages/",
-        "outputPath": "/Users/pablobd/Documents/Formacion/M09/2_UF3/Practica/codigo/Vehiculo/obj/",
+        "projectUniqueName": "C:\\Users\\lbatl\\Desktop\\ICB0009-UF3-PR01\\ICB0009-UF3-PR01\\Ejercicio1\\NetworkStreamClass\\NetworkStreamClass.csproj",
+        "projectName": "NetworkStreamClass",
+        "projectPath": "C:\\Users\\lbatl\\Desktop\\ICB0009-UF3-PR01\\ICB0009-UF3-PR01\\Ejercicio1\\NetworkStreamClass\\NetworkStreamClass.csproj",
+        "packagesPath": "C:\\Users\\lbatl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lbatl\\Desktop\\ICB0009-UF3-PR01\\ICB0009-UF3-PR01\\Ejercicio1\\NetworkStreamClass\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/pablobd/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\lbatl\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\lbatl\\Desktop\\ICB0009-UF3-PR01\\ICB0009-UF3-PR01\\Ejercicio1\\Carretera\\Carretera.csproj": {
+                "projectPath": "C:\\Users\\lbatl\\Desktop\\ICB0009-UF3-PR01\\ICB0009-UF3-PR01\\Ejercicio1\\Carretera\\Carretera.csproj"
+              },
+              "C:\\Users\\lbatl\\Desktop\\ICB0009-UF3-PR01\\ICB0009-UF3-PR01\\Ejercicio1\\Vehiculo\\Vehiculo.csproj": {
+                "projectPath": "C:\\Users\\lbatl\\Desktop\\ICB0009-UF3-PR01\\ICB0009-UF3-PR01\\Ejercicio1\\Vehiculo\\Vehiculo.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.408/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lbatl\\Desktop\\ICB0009-UF3-PR01\\ICB0009-UF3-PR01\\Ejercicio1\\Vehiculo\\Vehiculo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lbatl\\Desktop\\ICB0009-UF3-PR01\\ICB0009-UF3-PR01\\Ejercicio1\\Vehiculo\\Vehiculo.csproj",
+        "projectName": "Vehiculo",
+        "projectPath": "C:\\Users\\lbatl\\Desktop\\ICB0009-UF3-PR01\\ICB0009-UF3-PR01\\Ejercicio1\\Vehiculo\\Vehiculo.csproj",
+        "packagesPath": "C:\\Users\\lbatl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lbatl\\Desktop\\ICB0009-UF3-PR01\\ICB0009-UF3-PR01\\Ejercicio1\\Vehiculo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lbatl\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -195,7 +185,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.405/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.408/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

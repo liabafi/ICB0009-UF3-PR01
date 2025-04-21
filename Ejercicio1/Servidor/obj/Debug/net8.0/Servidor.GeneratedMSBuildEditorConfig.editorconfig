@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Servidor
-build_property.ProjectDir = /Users/pablobd/Documents/Formacion/M09/2_UF3/Practica/codigo/Servidor/
+build_property.ProjectDir = C:\Users\lbatl\Desktop\ICB0009-UF3-PR01\ICB0009-UF3-PR01\Ejercicio1\Servidor\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

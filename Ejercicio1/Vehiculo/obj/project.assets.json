@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/Users/pablobd/.nuget/packages/": {}
+    "C:\\Users\\lbatl\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/pablobd/Documents/Formacion/M09/2_UF3/Practica/codigo/Vehiculo/Vehiculo.csproj",
+      "projectUniqueName": "C:\\Users\\lbatl\\Desktop\\ICB0009-UF3-PR01\\ICB0009-UF3-PR01\\Ejercicio1\\Vehiculo\\Vehiculo.csproj",
       "projectName": "Vehiculo",
-      "projectPath": "/Users/pablobd/Documents/Formacion/M09/2_UF3/Practica/codigo/Vehiculo/Vehiculo.csproj",
-      "packagesPath": "/Users/pablobd/.nuget/packages/",
-      "outputPath": "/Users/pablobd/Documents/Formacion/M09/2_UF3/Practica/codigo/Vehiculo/obj/",
+      "projectPath": "C:\\Users\\lbatl\\Desktop\\ICB0009-UF3-PR01\\ICB0009-UF3-PR01\\Ejercicio1\\Vehiculo\\Vehiculo.csproj",
+      "packagesPath": "C:\\Users\\lbatl\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lbatl\\Desktop\\ICB0009-UF3-PR01\\ICB0009-UF3-PR01\\Ejercicio1\\Vehiculo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/pablobd/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\lbatl\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.405/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.408/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
