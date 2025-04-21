@@ -12,10 +12,17 @@ namespace Client
 {
     class Program
     {
+        static TcpClient cliente;
 
         static void Main(string[] args)
         {
+            // Crear el cliente TCP
+            cliente = new TcpClient();
 
+            cliente.Connect("127.0.0.1", 10001);
+            if (cliente.Connected) {
+                Console.WriteLine("Cliente: Conectado al servidor.");
+            }
         }
 
     }

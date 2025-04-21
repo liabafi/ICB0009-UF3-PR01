@@ -20,6 +20,8 @@ namespace Servidor
         {
             // Crear el servidor TCP            
             servidor = new TcpListener(IPAddress.Parse("127.0.0.1"), 10001);
+            servidor.Start();
+            Console.WriteLine("Servidor iniciado.");
         }
     }
 }
