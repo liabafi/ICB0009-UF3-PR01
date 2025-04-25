@@ -9,6 +9,7 @@
       "Servidor/1.0.0": {
         "dependencies": {
           "Carretera": "1.0.0",
+          "ClienteClass": "1.0.0",
           "NetworkStreamClass": "1.0.0",
           "Vehiculo": "1.0.0"
         },
@@ -22,6 +23,17 @@
         },
         "runtime": {
           "Carretera.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ClienteClass/1.0.0": {
+        "dependencies": {
+          "NetworkStreamClass": "1.0.0"
+        },
+        "runtime": {
+          "ClienteClass.dll": {
             "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -56,6 +68,11 @@
       "sha512": ""
     },
     "Carretera/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClienteClass/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

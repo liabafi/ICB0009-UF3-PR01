@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <ProjectReference Include = "../NetworkStreamClass/NetworkStreamClass.csproj" />
+    <ProjectReference Include = "../ClienteClass/ClienteClass.csproj" />
   </ItemGroup>
 
   <ItemGroup>

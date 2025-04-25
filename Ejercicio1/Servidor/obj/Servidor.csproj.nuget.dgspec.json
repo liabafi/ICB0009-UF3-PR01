@@ -66,6 +66,68 @@
         }
       }
     },
+    "C:\\Users\\lbatl\\Desktop\\ICB0009-UF3-PR01\\ICB0009-UF3-PR01\\Ejercicio1\\ClienteClass\\ClienteClass.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lbatl\\Desktop\\ICB0009-UF3-PR01\\ICB0009-UF3-PR01\\Ejercicio1\\ClienteClass\\ClienteClass.csproj",
+        "projectName": "ClienteClass",
+        "projectPath": "C:\\Users\\lbatl\\Desktop\\ICB0009-UF3-PR01\\ICB0009-UF3-PR01\\Ejercicio1\\ClienteClass\\ClienteClass.csproj",
+        "packagesPath": "C:\\Users\\lbatl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lbatl\\Desktop\\ICB0009-UF3-PR01\\ICB0009-UF3-PR01\\Ejercicio1\\ClienteClass\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lbatl\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\lbatl\\Desktop\\ICB0009-UF3-PR01\\ICB0009-UF3-PR01\\Ejercicio1\\NetworkStreamClass\\NetworkStreamClass.csproj": {
+                "projectPath": "C:\\Users\\lbatl\\Desktop\\ICB0009-UF3-PR01\\ICB0009-UF3-PR01\\Ejercicio1\\NetworkStreamClass\\NetworkStreamClass.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.408/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\lbatl\\Desktop\\ICB0009-UF3-PR01\\ICB0009-UF3-PR01\\Ejercicio1\\NetworkStreamClass\\NetworkStreamClass.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -155,6 +217,9 @@
             "projectReferences": {
               "C:\\Users\\lbatl\\Desktop\\ICB0009-UF3-PR01\\ICB0009-UF3-PR01\\Ejercicio1\\Carretera\\Carretera.csproj": {
                 "projectPath": "C:\\Users\\lbatl\\Desktop\\ICB0009-UF3-PR01\\ICB0009-UF3-PR01\\Ejercicio1\\Carretera\\Carretera.csproj"
+              },
+              "C:\\Users\\lbatl\\Desktop\\ICB0009-UF3-PR01\\ICB0009-UF3-PR01\\Ejercicio1\\ClienteClass\\ClienteClass.csproj": {
+                "projectPath": "C:\\Users\\lbatl\\Desktop\\ICB0009-UF3-PR01\\ICB0009-UF3-PR01\\Ejercicio1\\ClienteClass\\ClienteClass.csproj"
               },
               "C:\\Users\\lbatl\\Desktop\\ICB0009-UF3-PR01\\ICB0009-UF3-PR01\\Ejercicio1\\NetworkStreamClass\\NetworkStreamClass.csproj": {
                 "projectPath": "C:\\Users\\lbatl\\Desktop\\ICB0009-UF3-PR01\\ICB0009-UF3-PR01\\Ejercicio1\\NetworkStreamClass\\NetworkStreamClass.csproj"

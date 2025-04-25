@@ -6,6 +6,7 @@ using System.Text;
 using System.Threading;
 using NetworkStreamNS;
 using VehiculoClass;
+using ClienteClass;
 
 namespace Servidor
 {

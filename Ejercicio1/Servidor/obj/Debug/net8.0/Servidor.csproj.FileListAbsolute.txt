@@ -43,3 +43,5 @@ C:\Users\lbatl\Desktop\ICB0009-UF3-PR01\ICB0009-UF3-PR01\Ejercicio1\Servidor\obj
 C:\Users\lbatl\Desktop\ICB0009-UF3-PR01\ICB0009-UF3-PR01\Ejercicio1\Servidor\obj\Debug\net8.0\Servidor.pdb
 C:\Users\lbatl\Desktop\ICB0009-UF3-PR01\ICB0009-UF3-PR01\Ejercicio1\Servidor\obj\Debug\net8.0\Servidor.genruntimeconfig.cache
 C:\Users\lbatl\Desktop\ICB0009-UF3-PR01\ICB0009-UF3-PR01\Ejercicio1\Servidor\obj\Debug\net8.0\ref\Servidor.dll
+C:\Users\lbatl\Desktop\ICB0009-UF3-PR01\ICB0009-UF3-PR01\Ejercicio1\Servidor\bin\Debug\net8.0\ClienteClass.dll
+C:\Users\lbatl\Desktop\ICB0009-UF3-PR01\ICB0009-UF3-PR01\Ejercicio1\Servidor\bin\Debug\net8.0\ClienteClass.pdb
